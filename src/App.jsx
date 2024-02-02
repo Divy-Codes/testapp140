@@ -23,6 +23,10 @@ function App() {
       <div>
         Learning firebase deploy. Added this to check npm CI && npm run build
       </div>
+      <p>
+        Adding another para to check if pushing code to github will also update
+        the app in firebase link
+      </p>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
