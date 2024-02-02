@@ -21,6 +21,9 @@ function App() {
   return (
     <>
       <div>
+        Learning firebase deploy. Added this to check npm CI && npm run build
+      </div>
+      <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
